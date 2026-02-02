@@ -41,11 +41,3 @@ _Last updated: February 2, 2026_
 - For any questions, email: **aniketmishra492@gmail.com**
 
 ---
-
-**Hindi Summary:**
-
-- App aapka location sirf tracking ke liye use karta hai, background location tabhi jab aap allow karte hain.
-- Data secure servers par store hota hai, kisi third party ko nahi becha jaata.
-- Aap apna data dekh sakte hain, delete kar sakte hain, ya tracking band kar sakte hain.
-- App 13 saal se chhote bachchon ke liye nahi hai.
-- Koi bhi sawal ho toh email karein: aniketmishra492@gmail.com
